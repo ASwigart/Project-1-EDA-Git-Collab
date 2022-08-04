@@ -1,3 +1,3 @@
 # API Keys
 
-NasDkey = "yGaXjzcvobSqeSEbvjxs"
+NasDkey = "xmszHG8VDk5QrB1h-_VW"
