@@ -1,4 +1,6 @@
-# Project-1-EDA-Git-Collab
+#
+
+Project-1-EDA-Git-Collab
 Project 1 of the NU Data Analytics
 Proposal: To use the Cook County Assessor's Office's historical data to track potential effect of policy changes on rents or home values, comparing the county assessed values with Zillow's dataset's rental or home prices. We think finding a sample of zip codes might help us focus on particular patterns. After looking at the assessor's office, we think we might need another dataset, so we will start with the American Community Survey for property values.
 
@@ -14,7 +16,8 @@ initial data sources (at least 2):
   https://www.census.gov/programs-surveys/acs/data/experimental-data/1-year.html
   https://data.nasdaq.com/databases/ZILLOW/data
   https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Historic-Assessed-Values/uzyt-m557
-group member roles/strengths and assignment of initial tasks. Some examples: 
+
+GROUP MEMBER-/strengths and assignment of initial tasks. Some examples: 
   Henry-pandas guru - will be responsible for finalizing data cleaning tasks
   Henry- matplotlib  expert - will be responsible for creating visualizations
   Henry -API enthusiast - will be responsible for data acquisition
@@ -24,9 +27,13 @@ group member roles/strengths and assignment of initial tasks. Some examples:
   Andrew -project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
 
 Data acquisition and cleaning
+
 Process of finding data
+
 Process of acquiring data
+
 Process of cleaning data
+
 Link to final version of data cleaning jupyter notebook in main branch on repo
 Analysis and Conclusions
 6-8 visualizations
