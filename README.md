@@ -14,7 +14,8 @@ initial data sources (at least 2):
   https://www.census.gov/programs-surveys/acs/data/experimental-data/1-year.html
   https://data.nasdaq.com/databases/ZILLOW/data
   https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Historic-Assessed-Values/uzyt-m557
-group member roles/strengths and assignment of initial tasks. Some examples: 
+
+GROUP MEMBER-/strengths and assignment of initial tasks. Some examples: 
   Henry-pandas guru - will be responsible for finalizing data cleaning tasks
   Henry- matplotlib  expert - will be responsible for creating visualizations
   Henry -API enthusiast - will be responsible for data acquisition
@@ -24,9 +25,13 @@ group member roles/strengths and assignment of initial tasks. Some examples:
   Andrew -project management specialist - will be responsible for arranging group meetings, presenting reports, and keeping everyone moving
 
 Data acquisition and cleaning
+
 Process of finding data
+
 Process of acquiring data
+
 Process of cleaning data
+
 Link to final version of data cleaning jupyter notebook in main branch on repo
 Analysis and Conclusions
 6-8 visualizations
