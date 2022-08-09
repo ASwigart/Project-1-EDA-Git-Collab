@@ -1,4 +1,6 @@
-# Project-1-EDA-Git-Collab
+#
+
+Project-1-EDA-Git-Collab
 Project 1 of the NU Data Analytics
 Proposal: To use the Cook County Assessor's Office's historical data to track potential effect of policy changes on rents or home values, comparing the county assessed values with Zillow's dataset's rental or home prices. We think finding a sample of zip codes might help us focus on particular patterns. After looking at the assessor's office, we think we might need another dataset, so we will start with the American Community Survey for property values.
 
