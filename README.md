@@ -1,3 +1,4 @@
+[Challenge 1 Cook County Assessments Impact on Rents in 6 zip codes.pdf](https://github.com/ASwigart/Project-1-EDA-Git-Collab/files/9305305/Challenge.1.Cook.County.Assessments.Impact.on.Rents.in.6.zip.codes.pdf)
 #
 
 Project-1-EDA-Git-Collab
